@@ -1,7 +1,7 @@
 # Qurbani-Special-2026-Cow-Live-Weight-Calculator
 
 
-### Website name: QurbaniX
+### Website name: QurbaniX Live https://qurbanix.netlify.app/
 
 ## 🐄 A modern single-page Qurbani Special 2026 Cow Live Weight Calculator built with beautiful responsive UI. 
 
