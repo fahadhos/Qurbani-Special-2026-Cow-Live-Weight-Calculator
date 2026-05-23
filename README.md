@@ -3,9 +3,9 @@
 
 
 ✨ Features
-Live Weight Calculator
-Actual Meat KG Estimation
-Modern Responsive UI
+<li>Live Weight Calculator</li>
+<li> Actual Meat KG Estimation</li>
+<li>Modern Responsive UI</li>
 Bangla + English Friendly
 Tutorial Image Section
 Embedded YouTube Tutorials
