@@ -1,5 +1,9 @@
 # Qurbani-Special-2026-Cow-Live-Weight-Calculator
-🐄 A modern single-page Qurbani Special 2026 Cow Live Weight Calculator built with beautiful responsive UI. This project calculates live cattle weight using Heart Girth &amp; Body Length formula, estimates actual meat yield (55%), generates invoice-style summaries, and includes image + YouTube tutorial sections for easy learning.
+
+
+### Website name: QurbaniX
+
+## 🐄 A modern single-page Qurbani Special 2026 Cow Live Weight Calculator built with beautiful responsive UI. This project calculates live cattle weight using Heart Girth &amp; Body Length formula, estimates actual meat yield (55%), generates invoice-style summaries, and includes image + YouTube tutorial sections for easy learning.
 
 
 ✨ Features
@@ -12,3 +16,4 @@
 <li>Invoice Preview System</li> 
 <li> Mobile Friendly Design</li>
 <li>Qurbani Special Theme</li>
+&copy copyright alrights received by @fahadhos
