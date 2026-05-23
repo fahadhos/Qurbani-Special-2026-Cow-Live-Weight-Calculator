@@ -6,9 +6,9 @@
 <li>Live Weight Calculator</li>
 <li> Actual Meat KG Estimation</li>
 <li>Modern Responsive UI</li>
-Bangla + English Friendly
-Tutorial Image Section
-Embedded YouTube Tutorials
-Invoice Preview System
-Mobile Friendly Design
-Qurbani Special Theme
+<li>Bangla + English Friendly</li>
+<li>Tutorial Image Section</li>
+<li> Embedded YouTube Tutorials </li>
+<li>Invoice Preview System</li> 
+<li> Mobile Friendly Design</li>
+<li>Qurbani Special Theme</li>
