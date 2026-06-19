@@ -31,4 +31,4 @@ includes image + YouTube tutorial sections for easy learning.
 
 
 
-### &copy copyright alrights received by @fahadhos
+### &copy; copyright alrights received by @fahadhos
